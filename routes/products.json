@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Apple Ipod touch 5g 32gb Blanco", 
+    "price": {
+      "currency": "$",
+      "amount": 12000,
+      "decimals": "00"
+    },
+    "picture": "https://www.iconeasy.com/icon/png/Media/Float%20Sneak%20Peek/iPod%20White.png",
+    "condition": true,
+    "free_shipping": true,
+    "sold_quantity": 3,
+    "description": "TouchChat is a full-featured communication solution for individuals who have difficulty using their natural voice. TouchChat is designed for individuals with Autism, Down Syndrome, ALS, apraxia, stroke, or other conditions that affect a person's ability to use natural speech.",
+    "location": "Ushuaia, Tierra del Fuego"
+  },
+  {
+    "id": 2,
+    "title": "Macbook Air 2012", 
+    "price": {
+      "currency": "$",
+      "amount": 50000,
+      "decimals": "99"
+    },
+    "picture": "https://www.techsoup.org/SiteCollectionImages/Product/prod-rc-laptop-macbook-air-13_Big.png",
+    "condition": false,
+    "free_shipping": true,
+    "sold_quantity": 2,
+    "description": "The MacBook Air is a line of laptop computers developed and manufactured by Apple Inc. It consists of a full-size keyboard, a machined aluminum case, and a thin light structure. The Air was originally positioned as a premium ultraportable positioned above the previous MacBook line.",
+    "location": "La Plata, Bs As"
+  },
+  {
+    "id": 3,
+    "title": "Ipad 2019", 
+    "price": {
+      "currency": "$",
+      "amount": 30000,
+      "decimals": "00"
+    },
+    "picture": "https://cdn.shopify.com/s/files/1/2302/7371/products/7c95ec_8bcd118c52204fa48ba0a01200d150e6_mv2_a97f630f-596c-4af1-93ad-4771a546508a_768x.png?v=1503762495",
+    "condition": true,
+    "free_shipping": true,
+    "sold_quantity": 3,
+    "description": "The iPad is a tablet computer developed by Apple. It is smaller than a typical laptop, but significantly larger than the average smartphone. The iPad does not include a keyboard or a trackpad, but instead has a touchscreen interface, which is used to control the device.",
+    "location": "Concordia, Entre Ríos"
+  },
+  {
+    "id": 4,
+    "title": "Smart tv 2018", 
+    "price": {
+      "currency": "$",
+      "amount": 45000,
+      "decimals": "00"
+    },
+    "picture": "https://www.tiendacelsia.com/media/500x500/TV55NU7090-lateral.png",
+    "condition": true,
+    "free_shipping": true,
+    "sold_quantity": 7,
+    "description": "A smart TV is a digital television that is, essentially, an Internet-connected, storage-aware computer specialized for entertainment. Smart TVs are available as stand-alone products but regular televisions can also be made “smart” through set-top boxes that enable advanced functions.",
+    "location": "Mar del Plata, Bs As"
+  },
+  {
+    "id": 5,
+    "title": "Samsung - 4.2 Cu. Ft. 8-Cycle High-Efficiency Front-Loading Washer - White", 
+    "price": {
+      "currency": "$",
+      "amount": 60000,
+      "decimals": "00"
+    },
+    "picture": "http://pngimg.com/uploads/washing_machine/washing_machine_PNG15578.png",
+    "condition": false,
+    "free_shipping": true,
+    "sold_quantity": 1,
+    "description": "A washing machine is a machine that washes dirty clothes. ... This barrel is filled with water, and then rotated very quickly to make the water remove dirt from the clothes. Most washing machines are made so that detergent (liquids or powders) can be put into the machine. These can help make the clothes cleaner.",
+    "location": "Capital Federal"
+  },
+  {
+    "id": 6,
+    "title": "Apple Ipod touch 5g 16gb Negro", 
+    "price": {
+      "currency": "$",
+      "amount": 10000,
+      "decimals": "00"
+    },
+    "picture": "http://es.fordesigner.com/imguploads/Image/cjbc/zcool/png20080526/1211806360.png",
+    "condition": true,
+    "free_shipping": true,
+    "sold_quantity": 5,
+    "description": "TouchChat is a full-featured communication solution for individuals who have difficulty using their natural voice. TouchChat is designed for individuals with Autism, Down Syndrome, ALS, apraxia, stroke, or other conditions that affect a person's ability to use natural speech.",
+    "location": "Capital Federal"
+  }
+]
